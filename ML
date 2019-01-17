@@ -1,0 +1,3 @@
+#Convex problems have only one minimum; that is, only one place where the slope is exactly 0.
+That minimum is where the loss function converges
+
